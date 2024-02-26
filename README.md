@@ -1,4 +1,4 @@
-# OnlineMeetings
+# Automate Meetings
 A bot that will attend your online meetings.
 
 This bot is for those who are tired of attending their online classes and they just want to sleep insted of attending their online classes. So let the bot join your online classes.
